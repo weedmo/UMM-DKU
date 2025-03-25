@@ -1,0 +1,33 @@
+TrajectoryPlannerROS:
+  # 속도 제한
+  max_vel_x: 0.1
+  min_vel_x: -0.1
+  max_vel_y: 0.1
+  min_vel_y: -0.1
+  max_vel_theta: 0.5
+  min_vel_theta: -0.5
+  
+  # 가속도 제한 (부드러운 동작을 위해 낮은 값 설정)
+  acc_lim_x: 0.05
+  acc_lim_y: 0.05
+  acc_lim_theta: 0.2
+  
+  # 메카넘 휠 설정
+  holonomic_robot: true
+  
+  # 정밀 제어를 위한 파라미터
+  pdist_scale: 0.7
+  gdist_scale: 0.8
+  occdist_scale: 0.1
+  
+  # 목표 도달 허용 오차
+  xy_goal_tolerance: 0.10
+  yaw_goal_tolerance: 0.15
+
+  # 경로 계획 파라미터
+  sim_time: 2.0
+  sim_granularity: 0.025
+  angular_sim_granularity: 0.025
+  vx_samples: 10
+  vy_samples: 10
+  vtheta_samples: 20

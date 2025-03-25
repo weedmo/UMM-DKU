@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "moveit_task_constructor_msgs__py",
+		"source" : "/home/joonmo/ws_moveit/build/moveit_task_constructor_msgs/moveit_task_constructor_msgs__py"
+	}
+}

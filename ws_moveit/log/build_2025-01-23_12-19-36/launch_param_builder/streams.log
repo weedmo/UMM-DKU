@@ -1,0 +1,50 @@
+[0.835s] Invoking command in '/home/joonmo/ws_moveit/src/launch_param_builder': PYTHONPATH=/home/joonmo/ws_moveit/build/launch_param_builder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/launch_param_builder build --build-base /home/joonmo/ws_moveit/build/launch_param_builder/build install --record /home/joonmo/ws_moveit/build/launch_param_builder/install.log --single-version-externally-managed install_data
+[1.111s] running egg_info
+[1.111s] creating ../../build/launch_param_builder/launch_param_builder.egg-info
+[1.112s] writing ../../build/launch_param_builder/launch_param_builder.egg-info/PKG-INFO
+[1.112s] writing dependency_links to ../../build/launch_param_builder/launch_param_builder.egg-info/dependency_links.txt
+[1.112s] writing entry points to ../../build/launch_param_builder/launch_param_builder.egg-info/entry_points.txt
+[1.112s] writing requirements to ../../build/launch_param_builder/launch_param_builder.egg-info/requires.txt
+[1.112s] writing top-level names to ../../build/launch_param_builder/launch_param_builder.egg-info/top_level.txt
+[1.112s] writing manifest file '../../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[1.114s] reading manifest file '../../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[1.114s] adding license file 'LICENSE'
+[1.115s] writing manifest file '../../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[1.115s] running build
+[1.115s] running build_py
+[1.115s] creating /home/joonmo/ws_moveit/build/launch_param_builder/build
+[1.115s] creating /home/joonmo/ws_moveit/build/launch_param_builder/build/lib
+[1.115s] creating /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder
+[1.115s] copying launch_param_builder/utils.py -> /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder
+[1.115s] copying launch_param_builder/launch_param_builder.py -> /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder
+[1.115s] copying launch_param_builder/__init__.py -> /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder
+[1.115s] running install
+[1.116s] running install_lib
+[1.116s] creating /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[1.116s] copying /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder/utils.py -> /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[1.116s] copying /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder/launch_param_builder.py -> /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[1.117s] copying /home/joonmo/ws_moveit/build/launch_param_builder/build/lib/launch_param_builder/__init__.py -> /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[1.117s] byte-compiling /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/utils.py to utils.cpython-310.pyc
+[1.117s] byte-compiling /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/launch_param_builder.py to launch_param_builder.cpython-310.pyc
+[1.118s] byte-compiling /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/__init__.py to __init__.cpython-310.pyc
+[1.118s] running install_data
+[1.118s] creating /home/joonmo/ws_moveit/install/launch_param_builder/share/ament_index
+[1.120s] creating /home/joonmo/ws_moveit/install/launch_param_builder/share/ament_index/resource_index
+[1.120s] creating /home/joonmo/ws_moveit/install/launch_param_builder/share/ament_index/resource_index/packages
+[1.120s] copying resource/launch_param_builder -> /home/joonmo/ws_moveit/install/launch_param_builder/share/ament_index/resource_index/packages
+[1.120s] creating /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/launch
+[1.120s] copying example/launch_param_builder_example.launch.py -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/launch
+[1.120s] creating /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/config
+[1.120s] copying test/data/param_file_to_inject.yaml -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/config
+[1.120s] copying test/data/parameters_injection.yaml -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/config
+[1.120s] copying test/data/parameter_file -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/config
+[1.120s] copying test/data/parameter.xacro -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/config
+[1.120s] copying test/data/parameters.yaml -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder/config
+[1.120s] copying package.xml -> /home/joonmo/ws_moveit/install/launch_param_builder/share/launch_param_builder
+[1.121s] creating /home/joonmo/ws_moveit/install/launch_param_builder/lib/launch_param_builder
+[1.121s] copying example/example_node.py -> /home/joonmo/ws_moveit/install/launch_param_builder/lib/launch_param_builder
+[1.121s] running install_egg_info
+[1.122s] Copying ../../build/launch_param_builder/launch_param_builder.egg-info to /home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder-0.1.1-py3.10.egg-info
+[1.122s] running install_scripts
+[1.146s] writing list of installed files to '/home/joonmo/ws_moveit/build/launch_param_builder/install.log'
+[1.186s] Invoked command in '/home/joonmo/ws_moveit/src/launch_param_builder' returned '0': PYTHONPATH=/home/joonmo/ws_moveit/build/launch_param_builder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/launch_param_builder build --build-base /home/joonmo/ws_moveit/build/launch_param_builder/build install --record /home/joonmo/ws_moveit/build/launch_param_builder/install.log --single-version-externally-managed install_data

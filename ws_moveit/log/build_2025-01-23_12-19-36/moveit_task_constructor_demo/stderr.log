@@ -1,0 +1,17 @@
+In file included from [01m[K/home/joonmo/ws_moveit/src/moveit_task_constructor/demo/include/moveit_task_constructor_demo/pick_place_task.h:60[m[K,
+                 from [01m[K/home/joonmo/ws_moveit/src/moveit_task_constructor/demo/src/pick_place_task.cpp:38[m[K:
+[01m[K/home/joonmo/ws_moveit/build/moveit_task_constructor_demo/include/pick_place_demo_parameters.hpp:1:161:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: #include "pick_place_demo_parameters.hpp" is deprecated. Use #include <moveit_task_constructor_demo/pick_place_demo_parameters.hpp> instead.[m[K’
+    1 | moveit_task_constructor_demo/pick_place_demo_parameters.hpp> instead."[01;36m[K)[m[K
+      |                                                                       [01;36m[K^[m[K
+
+In file included from [01m[K/home/joonmo/ws_moveit/src/moveit_task_constructor/demo/include/moveit_task_constructor_demo/pick_place_task.h:60[m[K,
+                 from [01m[K/home/joonmo/ws_moveit/src/moveit_task_constructor/demo/src/pick_place_demo.cpp:41[m[K:
+[01m[K/home/joonmo/ws_moveit/build/moveit_task_constructor_demo/include/pick_place_demo_parameters.hpp:1:161:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: #include "pick_place_demo_parameters.hpp" is deprecated. Use #include <moveit_task_constructor_demo/pick_place_demo_parameters.hpp> instead.[m[K’
+    1 | moveit_task_constructor_demo/pick_place_demo_parameters.hpp> instead."[01;36m[K)[m[K
+      |                                                                       [01;36m[K^[m[K
+
+In file included from [01m[K/home/joonmo/ws_moveit/src/moveit_task_constructor/demo/src/ik_clearance_cost.cpp:11[m[K:
+[01m[K/home/joonmo/ws_moveit/build/moveit_task_constructor_demo/include/ik_clearance_cost_parameters.hpp:1:165:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: #include "ik_clearance_cost_parameters.hpp" is deprecated. Use #include <moveit_task_constructor_demo/ik_clearance_cost_parameters.hpp> instead.[m[K’
+    1 | veit_task_constructor_demo/ik_clearance_cost_parameters.hpp> instead."[01;36m[K)[m[K
+      |                                                                       [01;36m[K^[m[K
+

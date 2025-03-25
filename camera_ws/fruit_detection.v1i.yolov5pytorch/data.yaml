@@ -1,0 +1,12 @@
+train: /home/hjm/camera_ws/fruit_detection.v1i.yolov5pytorch/train/images
+val: /home/hjm/camera_ws/fruit_detection.v1i.yolov5pytorch/valid/images
+test: /home/hjm/camera_ws/fruit_detection.v1i.yolov5pytorch/test/images
+nc: 2
+names: ['apple', 'pear']
+
+roboflow:
+  workspace: morai-oawkg
+  project: fruit_detection-xjswf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/morai-oawkg/fruit_detection-xjswf/dataset/1

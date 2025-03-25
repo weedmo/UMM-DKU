@@ -1,0 +1,4 @@
+-DROS_PACKAGE_NAME="moveit_setup_srdf_plugins"
+-o
+/home/joonmo/ws_moveit/build/moveit_setup_srdf_plugins/include/moveit_setup_srdf_plugins/moc_default_collisions_widget.cpp
+/home/joonmo/ws_moveit/src/moveit2/moveit_setup_assistant/moveit_setup_srdf_plugins/include/moveit_setup_srdf_plugins/default_collisions_widget.hpp

@@ -1,0 +1,117 @@
+[0.024s] Invoking command in '/home/joonmo/ws_moveit/build/moveit_ros_benchmarks': AMENT_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/moveit_configs_utils:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/home/joonmo/ws_moveit/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse/lib:/home/joonmo/ws_moveit/install/moveit_ros_planning/lib:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/home/joonmo/ws_moveit/install/moveit_core/lib:/home/joonmo/ws_moveit/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/joonmo/ws_moveit/install/moveit_core/bin:${PATH} PYTHONPATH=/home/joonmo/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/home/joonmo/ws_moveit/install/srdfdom/local/lib/python3.10/dist-packages:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/joonmo/ws_moveit/src/moveit2/moveit_ros/benchmarks -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/joonmo/ws_moveit/install/moveit_ros_benchmarks
+[0.091s] -- The C compiler identification is GNU 11.4.0
+[0.160s] -- The CXX compiler identification is GNU 11.4.0
+[0.168s] -- Detecting C compiler ABI info
+[0.245s] -- Detecting C compiler ABI info - done
+[0.261s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.261s] -- Detecting C compile features
+[0.262s] -- Detecting C compile features - done
+[0.268s] -- Detecting CXX compiler ABI info
+[0.361s] -- Detecting CXX compiler ABI info - done
+[0.378s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.378s] -- Detecting CXX compile features
+[0.379s] -- Detecting CXX compile features - done
+[0.382s] -- Found moveit_common: 2.5.7 (/home/joonmo/ws_moveit/install/moveit_common/share/moveit_common/cmake)
+[0.385s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.572s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.791s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.844s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.851s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.861s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.877s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.897s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.953s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.957s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.059s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.089s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.136s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.147s] -- Looking for pthread.h
+[1.270s] -- Looking for pthread.h - found
+[1.270s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.393s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.394s] -- Found Threads: TRUE  
+[1.457s] -- Found tf2_eigen: 0.25.11 (/opt/ros/humble/share/tf2_eigen/cmake)
+[1.605s] -- Found moveit_core: 2.5.7 (/home/joonmo/ws_moveit/install/moveit_core/share/moveit_core/cmake)
+[1.647s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.690s] -- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[1.704s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.708s] -- Found rclcpp_lifecycle: 16.0.11 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[1.738s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[1.835s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[1.915s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.084s] -- Found moveit_ros_planning: 2.5.7 (/home/joonmo/ws_moveit/install/moveit_ros_planning/share/moveit_ros_planning/cmake)
+[2.091s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[2.119s] -- Found moveit_ros_warehouse: 2.5.7 (/home/joonmo/ws_moveit/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake)
+[2.126s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[2.159s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem 
+[2.180s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.197s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.197s] -- Configured cppcheck include dirs: /home/joonmo/ws_moveit/src/moveit2/moveit_ros/benchmarks/include
+[2.197s] -- Configured cppcheck exclude dirs and/or files: 
+[2.198s] -- Added test 'lint_cmake' to check CMake code style
+[2.199s] -- Added test 'xmllint' to check XML markup files
+[2.201s] -- Configuring done
+[2.264s] -- Generating done
+[2.283s] -- Build files have been written to: /home/joonmo/ws_moveit/build/moveit_ros_benchmarks
+[2.298s] Invoked command in '/home/joonmo/ws_moveit/build/moveit_ros_benchmarks' returned '0': AMENT_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/moveit_configs_utils:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/home/joonmo/ws_moveit/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse/lib:/home/joonmo/ws_moveit/install/moveit_ros_planning/lib:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/home/joonmo/ws_moveit/install/moveit_core/lib:/home/joonmo/ws_moveit/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/joonmo/ws_moveit/install/moveit_core/bin:${PATH} PYTHONPATH=/home/joonmo/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/home/joonmo/ws_moveit/install/srdfdom/local/lib/python3.10/dist-packages:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/joonmo/ws_moveit/src/moveit2/moveit_ros/benchmarks -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/joonmo/ws_moveit/install/moveit_ros_benchmarks
+[2.300s] Invoking command in '/home/joonmo/ws_moveit/build/moveit_ros_benchmarks': AMENT_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/moveit_configs_utils:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/home/joonmo/ws_moveit/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse/lib:/home/joonmo/ws_moveit/install/moveit_ros_planning/lib:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/home/joonmo/ws_moveit/install/moveit_core/lib:/home/joonmo/ws_moveit/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/joonmo/ws_moveit/install/moveit_core/bin:${PATH} PYTHONPATH=/home/joonmo/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/home/joonmo/ws_moveit/install/srdfdom/local/lib/python3.10/dist-packages:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/joonmo/ws_moveit/build/moveit_ros_benchmarks -- -j8 -l8
+[2.361s] [ 14%] [32mBuilding CXX object CMakeFiles/moveit_ros_benchmarks.dir/src/BenchmarkOptions.cpp.o[0m
+[5.659s] [ 28%] [32mBuilding CXX object CMakeFiles/moveit_ros_benchmarks.dir/src/BenchmarkExecutor.cpp.o[0m
+[39.762s] [ 42%] [32m[1mLinking CXX shared library libmoveit_ros_benchmarks.so[0m
+[40.434s] [ 42%] Built target moveit_ros_benchmarks
+[40.480s] [ 71%] [32mBuilding CXX object CMakeFiles/moveit_combine_predefined_poses_benchmark.dir/src/simple_benchmarks/CombinePredefinedPosesBenchmark.cpp.o[0m
+[40.480s] [ 71%] [32mBuilding CXX object CMakeFiles/moveit_run_benchmark.dir/src/RunBenchmark.cpp.o[0m
+[57.132s] [ 85%] [32m[1mLinking CXX executable moveit_run_benchmark[0m
+[57.369s] [100%] [32m[1mLinking CXX executable moveit_combine_predefined_poses_benchmark[0m
+[57.481s] [100%] Built target moveit_run_benchmark
+[57.802s] [100%] Built target moveit_combine_predefined_poses_benchmark
+[57.816s] Invoked command in '/home/joonmo/ws_moveit/build/moveit_ros_benchmarks' returned '0': AMENT_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/moveit_configs_utils:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/home/joonmo/ws_moveit/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse/lib:/home/joonmo/ws_moveit/install/moveit_ros_planning/lib:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/home/joonmo/ws_moveit/install/moveit_core/lib:/home/joonmo/ws_moveit/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/joonmo/ws_moveit/install/moveit_core/bin:${PATH} PYTHONPATH=/home/joonmo/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/home/joonmo/ws_moveit/install/srdfdom/local/lib/python3.10/dist-packages:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/joonmo/ws_moveit/build/moveit_ros_benchmarks -- -j8 -l8
+[57.818s] Invoking command in '/home/joonmo/ws_moveit/build/moveit_ros_benchmarks': AMENT_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/moveit_configs_utils:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/home/joonmo/ws_moveit/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse/lib:/home/joonmo/ws_moveit/install/moveit_ros_planning/lib:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/home/joonmo/ws_moveit/install/moveit_core/lib:/home/joonmo/ws_moveit/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/joonmo/ws_moveit/install/moveit_core/bin:${PATH} PYTHONPATH=/home/joonmo/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/home/joonmo/ws_moveit/install/srdfdom/local/lib/python3.10/dist-packages:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/joonmo/ws_moveit/build/moveit_ros_benchmarks
+[57.827s] -- Install configuration: "Release"
+[57.827s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/libmoveit_ros_benchmarks.so.2.5.7
+[57.828s] -- Set runtime path of "/home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/libmoveit_ros_benchmarks.so.2.5.7" to ""
+[57.828s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/libmoveit_ros_benchmarks.so
+[57.828s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/environment/library_path.sh
+[57.829s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/environment/library_path.dsv
+[57.829s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/moveit_ros_benchmarks/moveit_run_benchmark
+[57.829s] -- Set runtime path of "/home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/moveit_ros_benchmarks/moveit_run_benchmark" to ""
+[57.829s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/moveit_ros_benchmarks/moveit_combine_predefined_poses_benchmark
+[57.829s] -- Set runtime path of "/home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/moveit_ros_benchmarks/moveit_combine_predefined_poses_benchmark" to ""
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/include
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/include/moveit
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/include/moveit/benchmarks
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/include/moveit/benchmarks/BenchmarkOptions.h
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/include/moveit/benchmarks/BenchmarkExecutor.h
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/lib/moveit_ros_benchmarks/moveit_benchmark_statistics.py
+[57.830s] -- Up-to-date: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_fanuc.launch
+[57.830s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_panda_all_planners.launch
+[57.831s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_panda_all_planners_obstacles.launch
+[57.831s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_panda.launch.py
+[57.831s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_panda_predefined_poses.launch.py
+[57.831s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_panda_predefined_poses.yaml
+[57.831s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo1.yaml
+[57.832s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_panda_all_planners.yaml
+[57.832s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo_obstacles.yaml
+[57.832s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/demo2.yaml
+[57.832s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/ament_index/resource_index/package_run_dependencies/moveit_ros_benchmarks
+[57.832s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/ament_index/resource_index/parent_prefix_path/moveit_ros_benchmarks
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/environment/ament_prefix_path.sh
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/environment/ament_prefix_path.dsv
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/environment/path.sh
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/environment/path.dsv
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/local_setup.bash
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/local_setup.sh
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/local_setup.zsh
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/local_setup.dsv
+[57.833s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/package.dsv
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/ament_index/resource_index/packages/moveit_ros_benchmarks
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/export_moveit_ros_benchmarksExport.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/export_moveit_ros_benchmarksExport-release.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/ConfigExtras.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/ament_cmake_export_targets-extras.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/ament_cmake_export_dependencies-extras.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/moveit_ros_benchmarksConfig.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/cmake/moveit_ros_benchmarksConfig-version.cmake
+[57.834s] -- Installing: /home/joonmo/ws_moveit/install/moveit_ros_benchmarks/share/moveit_ros_benchmarks/package.xml
+[57.837s] Invoked command in '/home/joonmo/ws_moveit/build/moveit_ros_benchmarks' returned '0': AMENT_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/moveit_configs_utils:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/home/joonmo/ws_moveit/install/launch_param_builder:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse:/home/joonmo/ws_moveit/install/moveit_ros_planning:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor:/home/joonmo/ws_moveit/install/moveit_core:/home/joonmo/ws_moveit/install/moveit_resources_panda_moveit_config:/home/joonmo/ws_moveit/install/srdfdom:/home/joonmo/ws_moveit/install/moveit_resources_pr2_description:/home/joonmo/ws_moveit/install/moveit_resources_panda_description:/home/joonmo/ws_moveit/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/joonmo/ws_moveit/install/moveit_ros_warehouse/lib:/home/joonmo/ws_moveit/install/moveit_ros_planning/lib:/home/joonmo/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/home/joonmo/ws_moveit/install/moveit_core/lib:/home/joonmo/ws_moveit/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/joonmo/ws_moveit/install/moveit_core/bin:${PATH} PYTHONPATH=/home/joonmo/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/home/joonmo/ws_moveit/install/srdfdom/local/lib/python3.10/dist-packages:/home/joonmo/ws_moveit/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/joonmo/ws_moveit/build/moveit_ros_benchmarks

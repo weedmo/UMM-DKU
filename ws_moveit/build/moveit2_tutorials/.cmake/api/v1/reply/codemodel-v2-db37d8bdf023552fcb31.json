@@ -1,0 +1,388 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-ff426f38a9e775e70d1d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						14
+					]
+				},
+				{
+					"build" : "doc/tutorials/quickstart_in_rviz",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.tutorials.quickstart_in_rviz-Release-198ff449d2c913e47614.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/tutorials/quickstart_in_rviz"
+				},
+				{
+					"build" : "doc/tutorials/pick_and_place_with_moveit_task_constructor",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.tutorials.pick_and_place_with_moveit_task_constructor-Release-f523bdea80b00b3e1d3d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/tutorials/pick_and_place_with_moveit_task_constructor",
+					"targetIndexes" : 
+					[
+						0,
+						5
+					]
+				},
+				{
+					"build" : "doc/examples/motion_planning_api",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.motion_planning_api-Release-dc5d83c719ed52f699b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/motion_planning_api",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "doc/examples/move_group_interface",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.move_group_interface-Release-3d62789faeee0cc932e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/move_group_interface",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "doc/examples/pilz_industrial_motion_planner",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.pilz_industrial_motion_planner-Release-a874327f32742d4cdba6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/pilz_industrial_motion_planner",
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"build" : "doc/examples/planning_scene",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.planning_scene-Release-859b302e48573bf0b2f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/planning_scene",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "doc/examples/planning_scene_ros_api",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.planning_scene_ros_api-Release-1bf8375d65b1f6023d5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/planning_scene_ros_api",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "doc/examples/robot_model_and_robot_state",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.robot_model_and_robot_state-Release-95172fedb577089d2925.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/robot_model_and_robot_state",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "doc/examples/moveit_cpp",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.moveit_cpp-Release-028230f8375fa763927a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/moveit_cpp",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "doc/examples/realtime_servo",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.examples.realtime_servo-Release-c70a0c481b1968c11cda.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/examples/realtime_servo",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"build" : "doc/how_to_guides/chomp_planner",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.how_to_guides.chomp_planner-Release-c9602eca644c69561a38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/how_to_guides/chomp_planner"
+				},
+				{
+					"build" : "doc/how_to_guides/using_ompl_constrained_planning",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-doc.how_to_guides.using_ompl_constrained_planning-Release-a8029ad17e265ebd1f6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "doc/how_to_guides/using_ompl_constrained_planning",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					],
+					"name" : "moveit2_tutorials",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "minimal_mtc_tutorial::@4d7e21e888c057532d19",
+					"jsonFile" : "target-minimal_mtc_tutorial-Release-5d5ec0ddef246b0503f3.json",
+					"name" : "minimal_mtc_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "motion_planning_api_tutorial::@03bc4781c2676d925853",
+					"jsonFile" : "target-motion_planning_api_tutorial-Release-6734838bda7a4b70b504.json",
+					"name" : "motion_planning_api_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "move_group_interface_tutorial::@48b392b00550ccb3313e",
+					"jsonFile" : "target-move_group_interface_tutorial-Release-3dac84f8ee9d57d84b6b.json",
+					"name" : "move_group_interface_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moveit2_tutorials_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moveit2_tutorials_uninstall-Release-e8b19078e8b7a2825a5b.json",
+					"name" : "moveit2_tutorials_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "moveit_cpp_tutorial::@24a2191d4f850a4634c6",
+					"jsonFile" : "target-moveit_cpp_tutorial-Release-33f24b56e06c3734f6a5.json",
+					"name" : "moveit_cpp_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "mtc_tutorial::@4d7e21e888c057532d19",
+					"jsonFile" : "target-mtc_tutorial-Release-5c01f705873c44a6a4fa.json",
+					"name" : "mtc_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "ompl_constrained_planning::@664ca8e915128587a64e",
+					"jsonFile" : "target-ompl_constrained_planning-Release-d32e43fd4f34cac6fbf1.json",
+					"name" : "ompl_constrained_planning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "pilz_move_group::@8694ae961a1b546cd600",
+					"jsonFile" : "target-pilz_move_group-Release-9c5cf7af12bdb8927b5b.json",
+					"name" : "pilz_move_group",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "pilz_mtc::@8694ae961a1b546cd600",
+					"jsonFile" : "target-pilz_mtc-Release-6ca148fff2abfbb8071e.json",
+					"name" : "pilz_mtc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "planning_scene_ros_api_tutorial::@ec9567101772be98a1fe",
+					"jsonFile" : "target-planning_scene_ros_api_tutorial-Release-017bf504f2a8ebe5d325.json",
+					"name" : "planning_scene_ros_api_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "planning_scene_tutorial::@52c91b70db191c947aba",
+					"jsonFile" : "target-planning_scene_tutorial-Release-79c3f0bebb9d234b2306.json",
+					"name" : "planning_scene_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "robot_model_and_robot_state_tutorial::@eaa1ff1a4443f988150a",
+					"jsonFile" : "target-robot_model_and_robot_state_tutorial-Release-c79cb65fc61ef376fb56.json",
+					"name" : "robot_model_and_robot_state_tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "servo_cpp_interface_demo::@09eb06646011d32f2337",
+					"jsonFile" : "target-servo_cpp_interface_demo-Release-d89f9975d9f85a8e7a8e.json",
+					"name" : "servo_cpp_interface_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "servo_keyboard_input::@09eb06646011d32f2337",
+					"jsonFile" : "target-servo_keyboard_input-Release-ba7529bb50dc41ab1ddc.json",
+					"name" : "servo_keyboard_input",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-ba6d10938b5681296127.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/joonmo/ws_moveit/build/moveit2_tutorials",
+		"source" : "/home/joonmo/ws_moveit/src/moveit2_tutorials"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

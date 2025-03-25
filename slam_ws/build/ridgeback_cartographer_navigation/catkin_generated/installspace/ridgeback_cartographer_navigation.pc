@@ -1,0 +1,8 @@
+prefix=/home/hjm/slam_ws/install
+
+Name: ridgeback_cartographer_navigation
+Description: Description of ridgeback_cartographer_navigation
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

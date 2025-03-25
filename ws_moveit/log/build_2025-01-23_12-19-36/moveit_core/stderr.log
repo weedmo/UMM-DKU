@@ -1,0 +1,10 @@
+In file included from [01m[K/home/joonmo/ws_moveit/src/moveit2/moveit_core/online_signal_smoothing/include/moveit/online_signal_smoothing/butterworth_filter.h:44[m[K,
+                 from [01m[K/home/joonmo/ws_moveit/src/moveit2/moveit_core/online_signal_smoothing/src/butterworth_filter.cpp:39[m[K:
+[01m[K/home/joonmo/ws_moveit/build/moveit_core/online_signal_smoothing/include/moveit_butterworth_parameters.hpp:1:150:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: #include "moveit_butterworth_parameters.hpp" is deprecated. Use #include <moveit_core/moveit_butterworth_parameters.hpp> instead.[m[K’
+    1 | #pragma message("#include \"moveit_butterworth_parameters.hpp\" is deprecated. Use #include <moveit_core/moveit_butterworth_parameters.hpp> instead."[01;36m[K)[m[K
+      |                                                                                                                                                      [01;36m[K^[m[K
+In file included from [01m[K/home/joonmo/ws_moveit/src/moveit2/moveit_core/online_signal_smoothing/include/moveit/online_signal_smoothing/butterworth_filter.h:44[m[K,
+                 from [01m[K/home/joonmo/ws_moveit/src/moveit2/moveit_core/online_signal_smoothing/test/test_butterworth_filter.cpp:43[m[K:
+[01m[K/home/joonmo/ws_moveit/build/moveit_core/online_signal_smoothing/include/moveit_butterworth_parameters.hpp:1:150:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: #include "moveit_butterworth_parameters.hpp" is deprecated. Use #include <moveit_core/moveit_butterworth_parameters.hpp> instead.[m[K’
+    1 | #pragma message("#include \"moveit_butterworth_parameters.hpp\" is deprecated. Use #include <moveit_core/moveit_butterworth_parameters.hpp> instead."[01;36m[K)[m[K
+      |                                                                                                                                                      [01;36m[K^[m[K

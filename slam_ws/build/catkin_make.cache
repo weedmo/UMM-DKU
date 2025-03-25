@@ -1,0 +1,2 @@
+ridgeback_cartographer_navigation
+-DCATKIN_DEVEL_PREFIX=/home/hjm/slam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hjm/slam_ws/install -G Unix Makefiles

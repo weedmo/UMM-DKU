@@ -1,0 +1,32 @@
+frequency: 30
+sensor_timeout: 0.1
+two_d_mode: true
+publish_tf: true
+
+# TF frames
+map_frame: map
+odom_frame: odom
+base_link_frame: base_link
+world_frame: odom
+
+# 엔코더 오도메트리
+odom0: /odom
+odom0_config: [true,  true,  false,
+               false, false, true,
+               false, false, false,
+               false, false, true,
+               false, false, false]
+odom0_queue_size: 10
+odom0_nodelay: true
+odom0_differential: false
+
+# 레이저 스캔 매처 오도메트리
+odom1: /laser_odom
+odom1_config: [true,  true,  false,
+               false, false, true,
+               false, false, false,
+               false, false, true,
+               false, false, false]
+odom1_queue_size: 10
+odom1_nodelay: true
+odom1_differential: false

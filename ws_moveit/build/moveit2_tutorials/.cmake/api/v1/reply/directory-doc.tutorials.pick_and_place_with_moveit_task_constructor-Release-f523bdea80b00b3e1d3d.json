@@ -1,0 +1,73 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"doc/tutorials/pick_and_place_with_moveit_task_constructor/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/moveit2_tutorials",
+			"paths" : 
+			[
+				"doc/tutorials/pick_and_place_with_moveit_task_constructor/mtc_tutorial"
+			],
+			"targetId" : "mtc_tutorial::@4d7e21e888c057532d19",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/moveit2_tutorials",
+			"paths" : 
+			[
+				"doc/tutorials/pick_and_place_with_moveit_task_constructor/minimal_mtc_tutorial"
+			],
+			"targetId" : "minimal_mtc_tutorial::@4d7e21e888c057532d19",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/moveit2_tutorials",
+			"paths" : 
+			[
+				"doc/tutorials/pick_and_place_with_moveit_task_constructor/launch"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "doc/tutorials/pick_and_place_with_moveit_task_constructor",
+		"source" : "doc/tutorials/pick_and_place_with_moveit_task_constructor"
+	}
+}

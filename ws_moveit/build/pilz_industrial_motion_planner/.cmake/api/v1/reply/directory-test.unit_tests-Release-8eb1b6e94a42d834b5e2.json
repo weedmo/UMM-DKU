@@ -1,0 +1,281 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"test/unit_tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 170,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 175,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 176,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_pilz_industrial_motion_planner_direct"
+			],
+			"targetId" : "unittest_pilz_industrial_motion_planner_direct::@f8d01a5882d5959a738d",
+			"targetIndex" : 23,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_velocity_profile_atrap"
+			],
+			"targetId" : "unittest_velocity_profile_atrap::@f8d01a5882d5959a738d",
+			"targetIndex" : 33,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_generator"
+			],
+			"targetId" : "unittest_trajectory_generator::@f8d01a5882d5959a738d",
+			"targetIndex" : 28,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_functions"
+			],
+			"targetId" : "unittest_trajectory_functions::@f8d01a5882d5959a738d",
+			"targetIndex" : 27,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_blender_transition_window"
+			],
+			"targetId" : "unittest_trajectory_blender_transition_window::@f8d01a5882d5959a738d",
+			"targetIndex" : 26,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_generator_common"
+			],
+			"targetId" : "unittest_trajectory_generator_common::@f8d01a5882d5959a738d",
+			"targetIndex" : 30,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_generator_circ"
+			],
+			"targetId" : "unittest_trajectory_generator_circ::@f8d01a5882d5959a738d",
+			"targetIndex" : 29,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_generator_lin"
+			],
+			"targetId" : "unittest_trajectory_generator_lin::@f8d01a5882d5959a738d",
+			"targetIndex" : 31,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_trajectory_generator_ptp"
+			],
+			"targetId" : "unittest_trajectory_generator_ptp::@f8d01a5882d5959a738d",
+			"targetIndex" : 32,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_pilz_industrial_motion_planner"
+			],
+			"targetId" : "unittest_pilz_industrial_motion_planner::@f8d01a5882d5959a738d",
+			"targetIndex" : 22,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_joint_limit"
+			],
+			"targetId" : "unittest_joint_limit::@f8d01a5882d5959a738d",
+			"targetIndex" : 18,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_joint_limits_aggregator"
+			],
+			"targetId" : "unittest_joint_limits_aggregator::@f8d01a5882d5959a738d",
+			"targetIndex" : 19,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_joint_limits_container"
+			],
+			"targetId" : "unittest_joint_limits_container::@f8d01a5882d5959a738d",
+			"targetIndex" : 20,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_joint_limits_validator"
+			],
+			"targetId" : "unittest_joint_limits_validator::@f8d01a5882d5959a738d",
+			"targetIndex" : 21,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_cartesian_limits_aggregator"
+			],
+			"targetId" : "unittest_cartesian_limits_aggregator::@f8d01a5882d5959a738d",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_planning_context_loaders"
+			],
+			"targetId" : "unittest_planning_context_loaders::@f8d01a5882d5959a738d",
+			"targetIndex" : 25,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_planning_context"
+			],
+			"targetId" : "unittest_planning_context::@f8d01a5882d5959a738d",
+			"targetIndex" : 24,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/unittest_get_solver_tip_frame"
+			],
+			"targetId" : "unittest_get_solver_tip_frame::@f8d01a5882d5959a738d",
+			"targetIndex" : 17,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/config"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/pilz_industrial_motion_planner",
+			"paths" : 
+			[
+				"test/unit_tests/launch"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "test/unit_tests",
+		"source" : "test/unit_tests"
+	}
+}

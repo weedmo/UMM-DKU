@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"ikfast_kinematics_plugin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/moveit_kinematics",
+			"paths" : 
+			[
+				"ikfast_kinematics_plugin/scripts/auto_create_ikfast_moveit_plugin.sh",
+				"ikfast_kinematics_plugin/scripts/create_ikfast_moveit_plugin.py",
+				"ikfast_kinematics_plugin/scripts/round_collada_numbers.py"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/moveit_kinematics/ikfast_kinematics_plugin",
+			"paths" : 
+			[
+				"ikfast_kinematics_plugin/templates"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "ikfast_kinematics_plugin",
+		"source" : "ikfast_kinematics_plugin"
+	}
+}
