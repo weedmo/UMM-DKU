@@ -2,6 +2,8 @@
 
 An autonomous mobile robot designed to support **independent shopping for visually impaired individuals**.  
 By combining SLAM, voice recognition, and object detection technologies, this mobility solution enhances accessibility and autonomy.
+
+
 ![image](https://github.com/user-attachments/assets/2224144b-39f6-4499-9f6f-8f1b7bc80df0)
 
 ---
