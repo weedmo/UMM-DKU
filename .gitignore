@@ -1,0 +1,23 @@
+# 빌드/개발 디렉토리 무시
+build/
+devel/
+logs/
+
+# Python, C++ 캐시/임시 파일 무시
+*.pyc
+*.pyo
+*.swp
+*.bak
+*.log
+
+# 에디터/IDE 설정 파일 무시
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ROS launch/log
+rosout.log
+
+# 기타
+.DS_Store
