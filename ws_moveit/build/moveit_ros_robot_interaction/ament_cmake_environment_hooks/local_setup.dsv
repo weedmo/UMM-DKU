@@ -1,3 +1,0 @@
-source;share/moveit_ros_robot_interaction/environment/ament_prefix_path.sh
-source;share/moveit_ros_robot_interaction/environment/library_path.sh
-source;share/moveit_ros_robot_interaction/environment/path.sh

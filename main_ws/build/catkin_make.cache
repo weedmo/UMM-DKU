@@ -1,2 +1,0 @@
-control
--DCATKIN_DEVEL_PREFIX=/home/hjm/main_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hjm/main_ws/install -G Unix Makefiles

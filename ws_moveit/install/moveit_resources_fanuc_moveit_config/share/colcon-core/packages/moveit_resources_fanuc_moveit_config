@@ -1,1 +1,0 @@
-joint_state_publisher:moveit_resources_fanuc_description:robot_state_publisher:tf2_ros:xacro

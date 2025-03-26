@@ -1,8 +1,0 @@
-prefix=/home/hjm/main_ws/install
-
-Name: control
-Description: Description of control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs nav_msgs roscpp rospy std_msgs tf2 tf2_ros

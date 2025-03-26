@@ -1,6 +1,0 @@
-Invoking command in '/home/joonmo/ws_moveit/build/srdfdom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/joonmo/ws_moveit/src/srdfdom -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/joonmo/ws_moveit/install/srdfdom
-Invoked command in '/home/joonmo/ws_moveit/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/joonmo/ws_moveit/src/srdfdom -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/joonmo/ws_moveit/install/srdfdom
-Invoking command in '/home/joonmo/ws_moveit/build/srdfdom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joonmo/ws_moveit/build/srdfdom -- -j8 -l8
-Invoked command in '/home/joonmo/ws_moveit/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joonmo/ws_moveit/build/srdfdom -- -j8 -l8
-Invoking command in '/home/joonmo/ws_moveit/build/srdfdom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joonmo/ws_moveit/build/srdfdom
-Invoked command in '/home/joonmo/ws_moveit/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joonmo/ws_moveit/build/srdfdom

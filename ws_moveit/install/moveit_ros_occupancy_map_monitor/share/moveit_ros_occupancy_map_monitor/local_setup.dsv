@@ -1,3 +1,0 @@
-source;share/moveit_ros_occupancy_map_monitor/environment/ament_prefix_path.sh
-source;share/moveit_ros_occupancy_map_monitor/environment/library_path.sh
-source;share/moveit_ros_occupancy_map_monitor/environment/path.sh
