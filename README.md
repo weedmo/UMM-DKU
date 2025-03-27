@@ -20,13 +20,13 @@ By combining SLAM, voice recognition, and object detection technologies, this mo
 
 ## 🔧 Hardware Components
 
-🔹 2D LiDAR
-🔹 Mecanum wheels + Encoder motors (PD control)
-🔹 Arduino Uno & Mega
-🔹 Jetson Nano
-🔹 Camera (YOLOv5 object detection)
-🔹 RFID Reader
-🔹 Bluetooth module (voice control via smartphone)
+- 🔹 2D LiDAR
+- 🔹 Mecanum wheels + Encoder motors (PD control)
+- 🔹 Arduino Uno & Mega
+- 🔹 Jetson Nano
+- 🔹 Camera (YOLOv5 object detection)
+- 🔹 RFID Reader
+- 🔹 Bluetooth module (voice control via smartphone)
 
 ---
 
