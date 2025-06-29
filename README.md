@@ -1,3 +1,14 @@
+![ROS Melodic](https://img.shields.io/badge/ROS-Melodic-blue?logo=ros&logoColor=white)
+![move_base](https://img.shields.io/badge/ROS-move__base-important?logo=ros&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson-Nano-76B900?logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-Enabled-red?logo=openmv&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Enabled-blue?logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Compatible-00979D?logo=arduino&logoColor=white)
+![App Inventor](https://img.shields.io/badge/App-Inventor-purple?logo=appveyor&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-Design-grey?logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion-360-orange?logo=autodesk&logoColor=white)
+
 # 🛒 UMM (Useful Market Mobility) – Autonomous Shopping Assistant for the Visually Impaired
 
 An autonomous mobile robot designed to support **independent shopping for visually impaired individuals**.  
