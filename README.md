@@ -88,6 +88,13 @@ By combining SLAM, voice recognition, and object detection technologies, this mo
 [![Watch the demo video](https://img.youtube.com/vi/2G5HKrH4HdA/0.jpg)](https://youtu.be/2G5HKrH4HdA)
 
 ---
+## 📄 Documentation
+
+For a detailed explanation of this project, please refer to the following document:
+
+👉 [docs](2024_종합설계2_EMOM_UMM_최종보고서.pdf)
+
+
 
 ## ✍️ Reflections
 
