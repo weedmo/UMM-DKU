@@ -92,7 +92,8 @@ By combining SLAM, voice recognition, and object detection technologies, this mo
 
 For a detailed explanation of this project, please refer to the following document:
 
-👉 [docs](2024_종합설계2_EMOM_UMM_최종보고서.pdf)
+👉 [`Final Report`](https://github.com/weedmo/UMM-DKU/blob/main/2024%20%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%842_EMOM_UMM_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
 
 
 
